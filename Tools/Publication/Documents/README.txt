@@ -1,0 +1,1 @@
+Check our wiki https://github.com/OpenHoldem/openholdembot/wiki
